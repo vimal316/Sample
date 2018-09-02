@@ -1,0 +1,25 @@
+ls -lrt   -- to list all files/dirs
+touch <filename>  -- to create a file
+mkdir <directory name>  -- to create direcctory
+
+chmod 777 <file_name>  -- to change the file permission
+
+
+
+sudo su - root  -- to switch to root user
+su - appadmin  --  to switch form root to appadmin
+
+vi <filename>  -- to open a file in text editor... to save it press escape, :wq then enter
+
+chown username:groupname <fileName> -- to cahnge a file's ownership
+
+cp <sourcefileName/path> <destination Path>  - to copy a file
+
+mv <source path> <destination path>   -- to move a file/directory
+
+df -h  -- to view the disk space
+
+
+
+
+
